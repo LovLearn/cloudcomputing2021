@@ -1,4 +1,4 @@
-# python-hello-world
+# python-Qici-Tan
 
 ##The main objective of this assignment is to get more familiar with github functionalities.
 
